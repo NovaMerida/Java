@@ -32,4 +32,27 @@ public class Main {
         System.out.println(x + y + z);
         */
 
+        /* 
+        String name = "Nova Merida";
+        int studentID = 13;
+        int studentAge = 21;
+        float studentFee = 49.99f;
+        char studentGrade = 'A';
+
+        System.out.println("Student Name: " + name );
+        System.out.println("Student ID: " + studentID);
+        System.out.println("Student Age: " + studentAge);
+        System.out.println("Student Fee: " + studentFee);
+        System.out.println("Student Grade: " + studentGrade);
+        */
+
+        // Calculate the Area of a rectangle
+        int length = 5;
+        int width = 10;
+        int area;
+
+        area = length * width;
+
+        System.out.println("Area of the rectangle is: " + area);
+
 }}
